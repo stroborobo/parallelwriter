@@ -1,7 +1,7 @@
 parallelwriter
 ==============
 
-ParallelWriter is simmilar to [io.MultiWriter][1] but executes the writes
+ParallelWriter is similar to [io.MultiWriter][1] but executes the writes
 concurrently.
 
 [GoDoc][2]
